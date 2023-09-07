@@ -1,0 +1,3 @@
+pydotplus
+networkx
+matplotlib
